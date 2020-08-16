@@ -31,7 +31,7 @@ body {
 .logo {
     margin-left: -100px;
     margin-right: -100px; 
-    margin-bottom: 150px;
+    margin-bottom: 30px;
 }
 
 .logo img {
@@ -62,9 +62,12 @@ body {
     justify-content: center;
 }
 
+
 @media (max-width: 500px) {
     .logo {
-        margin: 0;
+        margin-left: 0;
+        margin-right: 0;
+
     }
 
     .button__black a{
